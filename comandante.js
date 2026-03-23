@@ -1,5 +1,5 @@
 const mario = "Mario";
-const destinos = ["marte", "jupiter", "saturno"];
+const destinos = ["Marte", "Jupiter", "Saturno"];
 
 // 1. Añadimos comillas al ID
 const btnidentificar = document.querySelector("#btn-identificar");
