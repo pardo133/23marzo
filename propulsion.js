@@ -19,7 +19,14 @@ btnMotores.addEventListener("click", () => {
 });
 
 
-btnDespegue.addEventListener("click", () => {
+
+const Despegue = document.getElementById("btn-despegue");
+
+
+Despegue.addEventListener("click", () => {
+    
    
-    btnDespegue.classList.add("activado");
+    Despegue.classList.add("activado");
+    
+    console.log("¡Propulsores activados! Iniciando secuencia de despegue.");
 });
