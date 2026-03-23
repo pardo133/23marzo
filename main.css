@@ -1,0 +1,6 @@
+.activado {
+    background-color: red;
+    color: white;
+    box-shadow: 0 0 20px rgba(255, 0, 0, 0.8); /* El efecto de brillo */
+    border: 2px solid darkred;
+}
